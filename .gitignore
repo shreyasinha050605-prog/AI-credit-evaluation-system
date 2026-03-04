@@ -1,8 +1,8 @@
 node_modules/
+frontend/node_modules/
 .env
 __pycache__/
 *.pyc
 .DS_Store
 dist/
 build/
-
